@@ -1,0 +1,20 @@
+  139  cd ..
+  140  cd Comandos\ Utilizados/
+  141  touch comandos.txt
+  142  cd ..
+  143  git init
+  144  git status
+  145  git add .
+  146  git status
+  147  git commit -m "primer commit Samir"
+  148  git log
+  149  git remote add origin https://github.com/423122301/PruebaExamen.git
+  150  git remote -v
+  151  git push origin master
+  152  git brach hotfix
+  153  git branch hotfix
+  154  git branch
+  155  git checkout hotfix
+  156  history
+  157  history 50
+  158  history 20 >Comandos\ Utilizados/comandos.txt
